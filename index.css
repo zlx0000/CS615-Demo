@@ -197,6 +197,9 @@ body {
     top: 26px;
     width: 30px;
 }
+#img {
+width: 163px;
+}
 #demo-modal .close span {
     position: relative;
     top: -3px;
